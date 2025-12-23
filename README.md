@@ -1,1 +1,1 @@
-Content from EMNLP 2024 README.md file
+Contents of the README.md file from MetaCLIP repository
